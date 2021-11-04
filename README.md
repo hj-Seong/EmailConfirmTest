@@ -1,7 +1,5 @@
-# GitTest
+# EmailConfirmTest
 
-### 팀원
-- 
 
 ### 개발환경
 - Springboot
